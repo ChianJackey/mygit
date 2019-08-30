@@ -5,4 +5,8 @@ test update  5
 test update  
 test update  
 test update  
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> b5c132b99596a0f46c715c6ef3be7cd26f070196
